@@ -1,5 +1,5 @@
 # Git-GitHub-Crash-Course
-🚩 Following along with video tutorial content: https://www.youtube.com/watch?v=RGOj5yH7evk&amp;t=1556s  
+🚩 Following along with video tutorial content by Gwen Faraday: https://www.youtube.com/watch?v=RGOj5yH7evk&amp;t=1556s  
 📓 Link to Notion notes: https://ninth-technician-87a.notion.site/Git-and-GitHub-for-Beginners-5e5d8dda39124cf8b72a42cfe3dadb00
 
 ## Follow along actions: 
