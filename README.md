@@ -8,4 +8,5 @@
 - Detour: SSH key is needed earlier than in the video. Deleted repo, used other resources to set up SSH Key, and re-cloned the repo.
 - Create new index.html file, modified this readme.
 - Practiced git commands:  `git status`, `git add .`, `git commit -m "comment" -m "description"`, and `git push origin main`.
--   
+- Created a new repo locally, connected to a new repo on GitHub using `git remote add orgin *link*`
+- 
