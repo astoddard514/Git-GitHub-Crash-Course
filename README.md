@@ -6,4 +6,5 @@
 - Edited readme for Update README.md commit.
 - Opened folder in VS, and cloned repo using GitBash Terminal.
 - Detour: SSH key is needed earlier than in the video. Deleted repo, used other resources to set up SSH Key, and re-cloned the repo.
-- Create new index.html file, modified this readme.     
+- Create new index.html file, modified this readme. 
+- Practiced adding a branch in GitBash, viewing the branches, and using `git checkout [filename]` to navigate between branches.     
